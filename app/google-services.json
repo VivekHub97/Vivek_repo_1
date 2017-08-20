@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "439389215646",
+    "firebase_url": "https://edusense-82440.firebaseio.com",
+    "project_id": "edusense-82440",
+    "storage_bucket": "edusense-82440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439389215646:android:947e128c9f3f5b3d",
+        "android_client_info": {
+          "package_name": "com.example.hp.edusense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439389215646-7r77gonkvbcig5er5r0s7pp1jq3hu8cm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.edusense",
+            "certificate_hash": "ed9a8b541addfb8855e10a65cf9170e81d582fd6"
+          }
+        },
+        {
+          "client_id": "439389215646-6cugsekhpg5k5h22mcf1ofnsipqsuacu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHoKXCgoqlsbx2bgVqIKrMxDpUtELg9Os"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439389215646-6cugsekhpg5k5h22mcf1ofnsipqsuacu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
